@@ -1,4 +1,4 @@
-# upload Picture
+# Upload Picture
 
 save uploaded picture and create thumbnails files
 
